@@ -1,0 +1,32 @@
+/* your styles go here */
+
+.navbar-default {
+    background: #467fbf;
+}
+
+.navbar ul.nav > li > a {
+    text-decoration: none; 
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #eeeeee;
+}
+
+.home-carousel .dark-mask {
+    background: #eeeeee;
+}
+
+.home-carousel h1, .home-carousel h2, .home-carousel h3, 
+.home-carousel p, .home-carousel ul {
+    color: #467fbf;
+}
+
+.box-image-text .image {
+    min-height: 200px;
+    max-height: 200px;
+  }
+  
+  .box-simple {
+    min-height: 230px;
+  }
+  
