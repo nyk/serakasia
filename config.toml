@@ -35,7 +35,7 @@ paginate = 10
 [[menu.main]]
     name = "Leadership Program"
     identifier = "leader"
-    url = "/leaders/"
+    url = "/leadership/"
     weight = 4
 
 [[menu.main]]
@@ -46,27 +46,21 @@ paginate = 10
 # Top bar social links menu
 
 [[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "http://facebook.com/serakasia"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "http://twitter.com/serakasia"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:info@serakasia.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -96,7 +90,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@serakasia.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Pukulan Pentjak Silat Serak is an Indonesian martial art developed by Pak Serak, who was severely disabled, yet one of the most esteemed martial artists of Indonesia in the 18th Century. We have received the art from the Dutch Indonesian family of the De Vries and De Thouars. Our lineage is from Pendekar Victor I.C. De Thouars.</p><p>Serak International Asia is the SE Asia regional body of Serak International and the VDT Academy under the leadership and supervision of Maha Guru Horacio Rodriguez.</p>"
     copyright = "Copyright (c) 2017, Serak International; all rights reserved."
 
     # Format dates with Go's time formatting
