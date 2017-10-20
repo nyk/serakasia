@@ -20,13 +20,3 @@
 .home-carousel p, .home-carousel ul {
     color: #467fbf;
 }
-
-.box-image-text .image {
-    min-height: 200px;
-    max-height: 200px;
-  }
-  
-  .box-simple {
-    min-height: 230px;
-  }
-  
