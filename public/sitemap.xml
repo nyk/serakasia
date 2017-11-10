@@ -3,117 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://serakasia.com/groups/</loc>
+    <lastmod>2017-11-10T22:06:16+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://serakasia.com/events/2015/</loc>
+    <lastmod>2017-11-10T20:54:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://serakasia.com/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/10/02/linked-post/</loc>
+    <loc>https://serakasia.com/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://serakasia.com/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://serakasia.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://serakasia.com/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://serakasia.com/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://serakasia.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://serakasia.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://serakasia.com/events/</loc>
+    <lastmod>2017-11-10T20:54:30+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/go/</loc>
+    <loc>https://serakasia.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://serakasia.com/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/golang/</loc>
+    <loc>https://serakasia.com/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://serakasia.com/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ipsum/</loc>
+    <loc>https://serakasia.com/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/lorem/</loc>
+    <loc>https://serakasia.com/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/programming/</loc>
+    <loc>https://serakasia.com/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/programming/</loc>
+    <loc>https://serakasia.com/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/pseudo/</loc>
+    <loc>https://serakasia.com/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://serakasia.com/</loc>
+    <lastmod>2017-11-10T22:06:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/starting/</loc>
+    <loc>https://serakasia.com/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://serakasia.com/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/theme/</loc>
+    <loc>https://serakasia.com/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

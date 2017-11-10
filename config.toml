@@ -90,7 +90,14 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@serakasia.com"
 
-    about_us = "<p>Pukulan Pentjak Silat Serak is an Indonesian martial art developed by Pak Serak, who was severely disabled, yet one of the most esteemed martial artists of Indonesia in the 18th Century. We have received the art from the Dutch Indonesian family of the De Vries and De Thouars. Our lineage is from Pendekar Victor I.C. De Thouars.</p><p>Serak International Asia is the SE Asia regional body of Serak International and the VDT Academy under the leadership and supervision of Maha Guru Horacio Rodriguez.</p>"
+    about_us = """<p>Pukulan Pentjak Silat Serak is an Indonesian martial art 
+    developed by Pak Serak, who was severely disabled, yet one of the most esteemed
+    martial artists of Indonesia in the 18th Century. We have received the art from
+    the Dutch Indonesian family of the De Vries and De Thouars. Our lineage is 
+    from Pendekar Victor I.C. De Thouars.</p><p>Serak International Asia is the SE 
+    Asia regional body of Serak International and the VDT Academy under the 
+    leadership and supervision of Maha Guru Horacio Rodriguez.</p>"""
+
     copyright = "Copyright (c) 2017, Serak International; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -117,11 +124,19 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +66 (0)96 358 2774 or info@serakasia.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
+    text = """
+    <p class="hidden-sm hidden-xs">
+        Contact us on +66 96 358 2774 or info@serakasia.com.
+    </p>
+    <p class="hidden-md hidden-lg">
+        <a href="#" data-animate-hover="pulse">
+            <i class="fa fa-phone"></i>
+        </a>
+        <a href="#" data-animate-hover="pulse">
+            <i class="fa fa-envelope"></i>
+        </a>
+    </p>
+    """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -147,7 +162,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Student Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "In the Serak International family we encourage and cultivate a close family atmosphere where a spirit of brotherhood is highly valued. Read what some of our brothers have to say about their training experience with us."
 
 [params.see_more]
     enable = true
