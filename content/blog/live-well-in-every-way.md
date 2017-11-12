@@ -1,10 +1,12 @@
-+++
-title = "Hugo is for lovers"
-date = "2015-08-03T13:39:46+02:00"
-tags = ["hugo"]
-categories = ["pseudo"]
-banner = "img/banners/banner-3.jpg"
-+++
+---
+title: "Live Well in Every Way"
+date: "2017-11-09T13:39:46+02:00"
+tags: ["thoughts"]
+categories: ["philosophy"]
+banner: "img/banners/banner-3.jpg"
+author: "Nyk"
+draft: false
+---
 
 ## Step 1. Install Hugo
 

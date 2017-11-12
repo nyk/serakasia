@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://serakasia.com/about/</loc>
+    <lastmod>2017-11-11T23:01:16+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://serakasia.com/blog/2017/11/11/protect-what-you-love/</loc>
+    <lastmod>2017-11-11T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://serakasia.com/blog/2017/11/10/think-strategically/</loc>
+    <lastmod>2017-11-10T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://serakasia.com/groups/</loc>
     <lastmod>2017-11-10T22:06:16+07:00</lastmod>
   </url>
@@ -13,33 +28,28 @@
   </url>
   
   <url>
-    <loc>https://serakasia.com/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://serakasia.com/blog/2017/11/09/live-well-in-every-way/</loc>
+    <lastmod>2017-11-09T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://serakasia.com/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://serakasia.com/blog/2017/11/08/with-what-you-have/</loc>
+    <lastmod>2017-11-08T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://serakasia.com/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://serakasia.com/blog/2017/11/07/with-what-comes/</loc>
+    <lastmod>2017-11-07T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://serakasia.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://serakasia.com/blog/2017/11/06/seek-every-advantage/</loc>
+    <lastmod>2017-11-06T22:22:55+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://serakasia.com/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-11-11T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,74 +73,25 @@
   </url>
   
   <url>
-    <loc>https://serakasia.com/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://serakasia.com/categories/philosophy/</loc>
+    <lastmod>2017-11-11T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://serakasia.com/</loc>
-    <lastmod>2017-11-10T22:06:16+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://serakasia.com/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <lastmod>2017-11-11T23:01:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://serakasia.com/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://serakasia.com/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://serakasia.com/tags/thoughts/</loc>
+    <lastmod>2017-11-11T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
