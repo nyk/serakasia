@@ -3,7 +3,7 @@ title: "With What You Have"
 date: "2017-11-08T13:47:08+02:00"
 tags: ["thoughts"]
 categories: ["philosophy"]
-banner: "img/banners/banner-2.jpg"
+banner: "img/banners/pakvic.jpg"
 author: "Nyk"
 draft: false
 ---

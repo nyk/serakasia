@@ -3,7 +3,7 @@ title: "Live Well in Every Way"
 date: "2017-11-09T13:39:46+02:00"
 tags: ["thoughts"]
 categories: ["philosophy"]
-banner: "img/banners/banner-3.jpg"
+banner: "img/banners/serak-calligraphy.jpg"
 author: "Nyk"
 draft: false
 ---

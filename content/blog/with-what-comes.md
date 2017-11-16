@@ -3,7 +3,7 @@ title: "With What Comes"
 date: "2017-11-07T13:50:46+02:00"
 tags: ["thoughts"]
 categories: ["philosophy"]
-banner: "img/banners/banner-1.jpg"
+banner: "img/banners/ontheferry.jpg"
 author: "Nyk"
 draft: false
 ---

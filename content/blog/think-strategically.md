@@ -3,7 +3,7 @@ title: "Think Strategically"
 date: "2017-11-10T21:49:20+02:00"
 tags: ["thoughts"]
 categories: ["philosophy"]
-banner: "img/banners/banner-4.jpg"
+banner: "img/banners/nyk-pantjar-wilderness.png"
 author: "Nyk"
 draft: false
 ---
