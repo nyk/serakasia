@@ -8,6 +8,10 @@ blockquote {
     background: #467fbf;
 }
 
+.navbar-toggle {
+    color: white;
+}
+
 .navbar ul.nav > li > a {
     text-decoration: none; 
 }
