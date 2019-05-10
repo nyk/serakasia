@@ -1,4 +1,5 @@
 baseurl = "https://serakasia.com"
+publishDir = "docs"
 title = "Serak International Asia"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
