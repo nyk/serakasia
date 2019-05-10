@@ -1,4 +1,4 @@
-baseurl = "https://serakasia.com"
+baseurl = "http://www.serakasia.com"
 publishDir = "docs"
 title = "Serak International Asia"
 theme = "hugo-universal-theme"
