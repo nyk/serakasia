@@ -70,7 +70,7 @@ paginate = 10
     defaultDescription = "Site developed by Cowham Interactive"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
@@ -162,7 +162,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Student Testimonials"
-    subtitle = "In the Serak International family we encourage and cultivate a close family atmosphere where a spirit of brotherhood is highly valued. Read what some of our brothers have to say about their training experience with us."
+    subtitle = "We encourage and cultivate a close family atmosphere where a spirit of brotherhood is highly valued. Read what some of our students have to say about their training experience with us."
 
 [params.see_more]
     enable = true
@@ -184,4 +184,3 @@ paginate = 10
     enable = true
     title = "From our blog"
     subtitle = "Check out the latest news, announcements, articles, training tips, musings and other updated content on our blog."
-
