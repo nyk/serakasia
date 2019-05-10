@@ -116,8 +116,8 @@ paginate = 10
         <br>Facebook: <a href="https://www.facebook.com/serakasia/">https://www.facebook.com/serakasia/</a>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "18.796143"
+    longitude = "98.979263"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
