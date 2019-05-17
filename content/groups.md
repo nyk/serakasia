@@ -13,17 +13,13 @@ Email: horacio@serakasia.com
 Web: http://serak.com
 
 ## Thailand
-Chiang Mai - Guru Nyk Cowham (Instructor)
-Tel. (local): 099-476-2009  
-Tel. (calling from outside Thailand): +66 99-476-2009 
-Email: nyk@serakasia.com  
+Chiang Mai - Guru Nyk Cowham<br/>
+Tel: (local) 099-476-2009<br/>
+Tel: (outside Thailand) +66 99-476-2009<br/>
+Email: nyk@serakasia.com<br/>
 Web: http://serakthai.wordpress.com
 
 Surat Thani - Mas Jay Griggs
-
-## Australia
-Melbourne - Mas Gilbert Chee (Instructor)  
-Email: gilbert@serakasia.com
 
 ## Denmark
 Copenhagen - Mas Andreas Kaaber (Instructor)  
