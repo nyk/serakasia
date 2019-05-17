@@ -13,18 +13,20 @@ Email: horacio@serakasia.com
 Web: http://serak.com
 
 ## Thailand
-Chiang Rai - Guru Nyk Cowham (Pembantu Guru Tingkat Dua)  
-Tel. (local): 096-358-2774  
-Tel. (calling from outside Thailand): +66 96-358-2774  
+Chiang Mai - Guru Nyk Cowham
+Tel. (local): 099-476-2009  
+Tel. (calling from outside Thailand): +66 99-476-2009 
 Email: nyk@serakasia.com  
 Web: http://serakthai.wordpress.com
 
-## Singapore
-Singapore - Mas Gilbert Chee (Instructor)  
+Surat Thani - Mas Jay Griggs
+
+## Australia
+Melbourne - Mas Gilbert Chee (Instructor)  
 Email: gilbert@serakasia.com
 
 ## Denmark
-Copenhagen - Pembina Andreas Kaaber (Instructor)  
+Copenhagen - Mas Andreas Kaaber (Instructor)  
 Email: andy@serakasia.com
 
 ## United States of America
