@@ -13,7 +13,7 @@ Email: horacio@serakasia.com
 Web: http://serak.com
 
 ## Thailand
-Chiang Mai - Guru Nyk Cowham 
+Chiang Mai - Guru Nyk Cowham
 Tel. (local): 099-476-2009  
 Tel. (calling from outside Thailand): +66 99-476-2009 
 Email: nyk@serakasia.com  
