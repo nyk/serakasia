@@ -1,39 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Serak International Asia</title>
-    <link>http://www.serakasia.com/categories/</link>
+    <link>https://serakasia.com/categories/</link>
     <description>Recent content in Categories on Serak International Asia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://www.serakasia.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Nov 2017 13:07:31 +0200</lastBuildDate><atom:link href="https://serakasia.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Philosophy</title>
-      <link>http://www.serakasia.com/categories/philosophy/</link>
+      <title>philosophy</title>
+      <link>https://serakasia.com/categories/philosophy/</link>
       <pubDate>Sat, 11 Nov 2017 13:07:31 +0200</pubDate>
       
-      <guid>http://www.serakasia.com/categories/philosophy/</guid>
+      <guid>https://serakasia.com/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Principles</title>
-      <link>http://www.serakasia.com/categories/principles/</link>
+      <title>principles</title>
+      <link>https://serakasia.com/categories/principles/</link>
       <pubDate>Sat, 11 Nov 2017 13:07:31 +0200</pubDate>
       
-      <guid>http://www.serakasia.com/categories/principles/</guid>
+      <guid>https://serakasia.com/categories/principles/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Strategy</title>
-      <link>http://www.serakasia.com/categories/strategy/</link>
+      <title>strategy</title>
+      <link>https://serakasia.com/categories/strategy/</link>
       <pubDate>Fri, 10 Nov 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.serakasia.com/categories/strategy/</guid>
+      <guid>https://serakasia.com/categories/strategy/</guid>
       <description></description>
     </item>
     
